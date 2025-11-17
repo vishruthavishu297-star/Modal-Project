@@ -1,3 +1,9 @@
+Modal Project 
+This project shows how a popup box (modal) works on a website.
+When you click a button, a modal opens.
+You can close it by clicking the X button, clicking outside the modal, or pressing the ESC key.
+It is made using HTML, CSS, and JavaScript.
+
 1.Steps to Run the Modal Project
 
 Open Command Prompt
